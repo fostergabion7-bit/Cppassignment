@@ -1,0 +1,8 @@
+.vscode/
+build/
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.log
+"assignment 1"
